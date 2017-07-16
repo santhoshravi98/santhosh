@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Info</string>
+    <string name="abc">CREDENTIALS:</string>
+    <string name="abc1">Name:</string>
+    <string name="abc2">Phone Number:</string>
+    <string name="abc3">E-mail:</string>
+    <string name="abc4">Address:</string>
+</resources>
